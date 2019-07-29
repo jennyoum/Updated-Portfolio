@@ -3,7 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: url("../images/concrete_seamless.png");
+    background: "images/goldj.jpg";
   }
   
   * {
@@ -33,9 +33,10 @@ body {
   h1,
   h2,
   h3 {
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Dancing Script', cursive;
     font-weight: 700;
-    color: #4aaaa5;
+    color: black;
   }
   
   h1 {
@@ -67,14 +68,15 @@ body {
     float: left;
     width: 250px;
     height: 90px;
-    font-family: Georgia, Times, "Times New Roman", serif;
-    font-size: 30px;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
     font-weight: 700;
     line-height: 90px;
     color: #ffffff;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    background:black;
   }
   
   nav {
@@ -87,7 +89,7 @@ body {
     padding-left: 15px;
     margin-left: 15px;
     line-height: 18px;
-    color: #999;
+    color:black;
     text-decoration: none;
     border-left: 1px solid #efefef;
   }
@@ -162,7 +164,7 @@ body {
     margin-bottom: 0;
     font-weight: 300;
     line-height: 30px;
-    color: #ffffff;
+    color: black;
     text-align: center;
     background: #4aaaa5;
     border-bottom: 0;
